@@ -1,13 +1,13 @@
-## Touring Machine Collected Repos
+# Touring Machine Collected Repos
 
-# API Gateway 
+## API Gateway 
 https://github.com/joshuasorkin/touring-machine
 
-# Geolocation service
+## Geolocation service
 https://github.com/skramana1973/aws-hack-genai-llm
 
-# LLM service
-https://github.com/ArealTal/shared_temp/blob/main/notebooks/PromptService.ipynb
+## LLM service
+https://github.com/ArealTal/shared_temp/tree/main/notebooks
 
-# Front end
+## Front end
 https://github.com/AICampHackathon/TouringMachineFE
