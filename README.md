@@ -1,5 +1,9 @@
 # Touring Machine Collected Repos
 
+## Work group:
+Joshua Sorkin, Raman Sikamani, Rakhi Sharma,
+Ari Tal, Umesh Rawat, Ghalia Farzat
+
 ## API Gateway 
 https://github.com/joshuasorkin/touring-machine
 
