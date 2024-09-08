@@ -1,8 +1,8 @@
 # Touring Machine Collected Repos
 
 ## Work group:
-Joshua Sorkin, Raman Sikamani, Rakhi Sharma,
-Ari Tal, Umesh Rawat, Ghalia Farzat
+[Joshua Sorkin](https://www.linkedin.com/in/joshua-sorkin-9369236/), Raman Sikamani, [Rakhi Sharma](www.linkedin.com/in/rakhi01),
+[Ari Tal](https://www.linkedin.com/in/arealtal/), [Umesh Rawat](http://linkedin.com/in/umesh-rawat), [Ghalia Farzat](https://www.linkedin.com/in/ghaliafarzat/)
 
 ## API Gateway 
 https://github.com/joshuasorkin/touring-machine
